@@ -44,3 +44,19 @@ Installing github.com/cweill/gotests FAILED
 Installing github.com/derekparker/delve/cmd/dlv SUCCEEDED
 
 注意：安装这些插件之前需要去github官网中下载对应的库，然后根据错误提示去GOPATH中的src目录中创建对应的目录（文件夹）即可。然后再次安装就会成功
+
+
+###  常见dos命令
+- md 创建目录
+- cd 跳转目录
+- rd 删除目录
+  >  rd /q/s 删除目录不带询问   /s目录及一下的子目录
+- 文件相关操作
+  > copy 
+  > echo   --- new file or append. for example: echo //lovego > b.txt
+  > move 
+  > del
+- cls   clear screen
+- exit
+
+###  关于go的一些基础知识点
